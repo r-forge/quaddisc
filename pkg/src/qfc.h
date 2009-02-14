@@ -3,7 +3,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include <malloc.h>
+/* BEGIN: Comment out, to fix OS X issue -- C. Choirat and R. Seri */
+/* #include <malloc.h> */
+/* END: Comment out, to fix OS X issue -- C. Choirat and R. Seri */
 #include <setjmp.h>
 
 #define TRUE  1
