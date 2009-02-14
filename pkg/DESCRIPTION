@@ -5,6 +5,7 @@ Version: 0.1
 Date: 2009-02-11
 Author: Christine Choirat and Raffaello Seri
 Maintainer: Christine Choirat <cchoirat@gmail.com>
+Depends: statmod
 Description: This package computes the asymptotic distribution of a degenerate second-order U- or V- statistic and provides algorithms to approximate the eigenvalues and eigenfunctions of the kernel of a quadratic discrepancy.
 License: GPL
 LazyLoad: yes
